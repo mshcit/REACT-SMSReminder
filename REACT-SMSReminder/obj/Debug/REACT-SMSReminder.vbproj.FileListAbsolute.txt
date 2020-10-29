@@ -1,0 +1,11 @@
+J:\Source codes\REACT-SMSReminder\REACT-SMSReminder\bin\Debug\REACT-SMSReminder.exe.config
+J:\Source codes\REACT-SMSReminder\REACT-SMSReminder\bin\Debug\REACT-SMSReminder.exe
+J:\Source codes\REACT-SMSReminder\REACT-SMSReminder\bin\Debug\REACT-SMSReminder.pdb
+J:\Source codes\REACT-SMSReminder\REACT-SMSReminder\bin\Debug\REACT-SMSReminder.xml
+J:\Source codes\REACT-SMSReminder\REACT-SMSReminder\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+J:\Source codes\REACT-SMSReminder\REACT-SMSReminder\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+J:\Source codes\REACT-SMSReminder\REACT-SMSReminder\obj\Debug\REACT_SMSReminder.Resources.resources
+J:\Source codes\REACT-SMSReminder\REACT-SMSReminder\obj\Debug\REACT-SMSReminder.vbproj.GenerateResource.Cache
+J:\Source codes\REACT-SMSReminder\REACT-SMSReminder\obj\Debug\REACT-SMSReminder.exe
+J:\Source codes\REACT-SMSReminder\REACT-SMSReminder\obj\Debug\REACT-SMSReminder.xml
+J:\Source codes\REACT-SMSReminder\REACT-SMSReminder\obj\Debug\REACT-SMSReminder.pdb
